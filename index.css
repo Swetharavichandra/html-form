@@ -1,0 +1,13 @@
+body{
+    background-color:#eef0ec;
+}
+.row{
+    margin:20px;
+}
+.box{
+    width:80%;
+}
+table{
+    position:sticky;
+    top: 0;
+}
